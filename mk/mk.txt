@@ -1,0 +1,9 @@
+ioncube 10 7.2  *****
+scr//
+app//
+human//
+sourceguardian  7.2 ***
+
+phpshield   *
+phpcipher   *
+truebug     *
